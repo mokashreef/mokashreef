@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Mohammad  <br>💻 Software Engineer & Web Developer  <br>🔥 I turn ideas into real products, not just code  <br>🧩 Interested in AI, automation, and building developer tools  <br>✍️ I write technical content and share real experiences at Code elta6ur  <br>🎯 Long-term thinker, short-term executor<br>
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mo.a.kashreef) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mo.kashreef) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-abu-kashreef) 
 
