@@ -434,22 +434,8 @@ Contributing to the developer community with useful tools, libraries, and soluti
 
 <!-- STATS + STREAK + LANGUAGES -->
 
-<p>
 <a href="https://github.com/mokashreef">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mokashreef&show_icons=true&theme=github_dark&border_color=0D6EFD&bg_color=0d1117&title_color=38BDF8&icon_color=0D6EFD&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</a>
-&nbsp;
-<a href="https://github.com/mokashreef">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mokashreef&theme=github-dark-blue&border=0D6EFD&background=0d1117&stroke=0D6EFD&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9" alt="GitHub Streak" />
-</a>
-</p>
-
-<br>
-
-<!-- TOP LANGUAGES -->
-
-<a href="https://github.com/mokashreef">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokashreef&layout=compact&theme=github_dark&border_color=0D6EFD&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8&hide_border=false" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mokashreef&theme=github-dark-blue&border=0D6EFD&background=0d1117&stroke=0D6EFD&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9" alt="GitHub Streak" />
 </a>
 
 <br><br>
@@ -525,7 +511,7 @@ Contributing to the developer community with useful tools, libraries, and soluti
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=20&duration=6000&pause=3000&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&height=60&lines=%22Great+software+isn't+built+by+writing+more+code.;It's+built+by+solving+real+problems.%22+—+Mohammad" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=20&duration=6000&pause=3000&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&height=60&lines=%22Great+software+isn%27t+built+by+writing+more+code.;It%27s+built+by+solving+real+problems.%22+%E2%80%94+Mohammad" alt="Quote" />
 
 <br><br>
 
