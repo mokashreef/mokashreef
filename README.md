@@ -366,11 +366,7 @@ graph LR
 
 <br>
 
-<a href="https://code-elta6ur.com">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mokashreef&repo=code-elta6ur&theme=github_dark&border_color=0D6EFD&bg_color=0d1117&title_color=38BDF8&icon_color=0D6EFD&text_color=c9d1d9" />
-</a>
 
-<br><br>
 
 <!-- PROJECT CARDS -->
 
@@ -516,31 +512,6 @@ Contributing to the developer community with useful tools, libraries, and soluti
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🐍 &nbsp; Contribution Snake
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mokashreef/mokashreef/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mokashreef/mokashreef/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/mokashreef/mokashreef/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-> 💡 **Setup required:** Add the [snk GitHub Action](https://github.com/Platane/snk) to your profile repo to generate the snake animation automatically.
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CUSTOM QUOTE -->
